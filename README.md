@@ -15,7 +15,7 @@ This Laravel backend project retrieves country information from the World Bank A
 
 ```bash
 git clone https://github.com/JoshuaGr33n/country-query-backend.git
-cd laravel-country-query-backend
+cd country-query-backend
 ```
 
 2. **Install Dependencies:**
