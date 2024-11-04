@@ -43,7 +43,7 @@ php artisan serve
 
 ### API Endpoint
 
-Access the API at `http://localhost:8000/country` (or your server's base URL).
+Access the API at `http://localhost:8000/api/country` (or your server's base URL).
 
 **Example Request (POST /country):**
 
